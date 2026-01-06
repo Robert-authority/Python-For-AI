@@ -7,3 +7,4 @@ def tebak_angka(n):
 angka = int(input("Masukkan angka: "))
 hasil = tebak_angka(angka)
 print(f"Angka {angka} adalah {hasil}")
+print("Selesai")
