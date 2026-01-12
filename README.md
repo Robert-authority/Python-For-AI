@@ -1,2 +1,2 @@
-# Python-For-AI
-Repository ini berisi dokumentasi proses belajar saya tentang Artificial Intelligence (AI) menggunakan Python. Di dalamnya terdapat catatan, eksperimen kode, dan latihan selama mempelajari konsep AI, machine learning, serta dasar deep learning sebagai bagian dari perjalanan belajar saya.
+#Python-For-AI
+This repository contains documentation of my learning process about Artificial Intelligence (AI) using Python. It includes notes, code experiments, and,and practice while learning the concepts of AI, machine learning, and the basics of deep learning as part of my learning journey.
